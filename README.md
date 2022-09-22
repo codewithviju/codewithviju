@@ -3,7 +3,7 @@
 
 ## I'm a Developer!!
 
-- 🌱 Professional React.js Developer
+- 🌱 Full Stack Developer
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ Fun fact: I love Eating & Codding
 
